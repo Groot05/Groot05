@@ -1,4 +1,4 @@
--  Hi, I’m Rahul Joshi and @Groot05 is my user name
+-  Hey there, I’m Rahul Joshi .
 -  I’m interested in Web development,UI designing,backend development and much more.
 -  I’m currently learning react.
 -  I’m looking to collaborate on react projects 
